@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hey 👋, This is Name
+[![Linkedin Badge](https://img.shields.io/badge/-jpdcdeveloper-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpdcdeveloper/)](https://www.linkedin.com/in/jpdcdeveloper/) [![Github Badge](https://img.shields.io/badge/-jpdc_developer-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jpdc-developer/)](https://www.github.com/jpdc-developer/) [![Twitter Badge](https://img.shields.io/badge/-pao_grammar-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/pao_grammar/)](https://www.twitter.com/pao_grammar/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=portfolio/)](https://jpdc-developer.github.io/) <p align='left'>Hello</p><p align='left'> You can view my resume <a href='cv link ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=jpdc-developer alt=username /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jpdc-developer&show_icons=true&include_all_commits=true)](https://github.com/jpdc-developer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpdc-developer&layout=compact)](https://github.com/jpdc-developer/github-readme-stats)
+
 
 <!--
 **jpdc-developer/jpdc-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
